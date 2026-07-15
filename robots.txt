@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-vxz2ek.quietmatches.com/sitemap.xml
